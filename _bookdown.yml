@@ -6,4 +6,3 @@ output_dir: docs
 delete_merged_file: true
 edit: https://github.com/dgarcia14/book/edit/master/%s
 view: https://github.com/dgarcia14/book/blob/master/%s
-
