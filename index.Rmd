@@ -1,7 +1,15 @@
 --- 
-title: "Identificación de Territorios con Vulnerabilidad"
-author: "Donaji Garcia Alonso"
+title: "Libro"
+author: "---"
+date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+# output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: openscapes/series
+description: "----"
 ---
 
 # Resumen {-}
