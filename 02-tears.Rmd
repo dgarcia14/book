@@ -27,7 +27,13 @@ El verano de **El Niño** al sur de México suele estar asociado a una mayor dis
 
 **A pesar de que el ENOS es altamente variante y difícil de predecir, queda claro que cambios intensos en la distribución y abundancia de lluvias son capaces de provocar daños para la población grandes en forma de pérdidas de cultivo (e.g. sequía) y daños materiales (e.g. tormentas).**
 
-### Declaratorias de emergencia hidrometeorológica {#basics-examples}
+```{r, echo = FALSE, fig.cap = "Estado ENOS", fig.show = "hold", fig.topcaption = TRUE}
+knitr::include_graphics("figure/enos.gif",  dpi = NA)
+```
+
+
+>El Servicio Meteorológico Nacional (SMN) proporciona información sobre el estado del tiempo a escala nacional y local en nuestro país. Para consultar el **estado actual del ENOS**, así como más detalles sobre del fenómeno El Niño y sus impactos en México, visite esta liga: Servicio Meteorológico Nacional.
+### Declaratorias de emergencia hidrometeorológica
 
 La **declaratoria de emergencia** se define como "el acto mediante el cual la SEGOB reconoce que uno o varios municipios o delegaciones políticas de una entidad federativa, se encuentran ante la inminencia, alta probabilidad o presencia de una situación anormal generada por un fenómeno natural perturbador, que puede propiciar un riesgo excesivo a la seguridad e integridad o, en su caso, causar un daño a la sociedad." (SEGOB) 
 
@@ -35,4 +41,59 @@ Ante un evento perturbador, estas declaratorias de emergencia son de suma import
 
 Para la región Pacífico Sur, las declaratorias de emergencias de eventos hidrometeorológicos se deben a **lluvias, temperaturas extremas, ciclones tropicales** (por ejemplo, tormentas tropicales y huracanes), **inundaciones, heladas y sequías** (CENAPRED).
 
+## Presión sobre los recursos naturales
+
+### Presión al capital natural
+
+### Presión de deforestación
+
+## Escenarios de cambio climático
+
+**Los escenarios de cambio climático modelan diferentes futuros posibles, cercanos a lejanos, y con emisiones de gases de efecto invernadero cada vez más altas.**
+
+Estos escenarios son descripciones plausibles de posibles futuros estados del mundo. Creado a partir de **modelos complejos y dinámicos**, cada escenario es una alternativa del comportamiento del clima en un futuro. Sin embargo, **no deben confundirse con un pronóstico climático**. Los escenarios no buscan predecir el futuro, sino ser una herramienta para analizar el cambio climático, incluyendo sus incertidumbres y futuros alternativos y ser un sustento para las iniciativas de adaptación y mitigación (INECC, 2022). Generalmente, un **futuro cercano** se refiere al periodo de 2015-2035, mientras que un **futuro intermedio** es de 2046-2065 y un **futuro lejano de 2081-2100** (INECC, 2014; IPCC, 2013).
+
+El Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC) inicialmente desarrolló una familia de cuatro escenarios de cambio climático llamados Trayectorias de Concentración Representativas (**RCP**s, por sus siglas en inglés). A partir del 2014 se decidió complementar los RCPs con las Trayectorias Socioeconómicas Compartidas (**SSP**s, por sus siglas en inglés). Estos nuevos escenarios se basan en cinco narrativas que describen distintos desarrollos socioeconómicos, tal como lo indica su nombre. Al combinar ambas familias de escenarios (RCPs y SSPs) se obtienen entonces cinco escenarios posibles que describen cómo podría evolucionar el mundo en las décadas siguientes  y qué desafíos suponen esos cambios para la mitigación y la adaptación. (Escoto et al., 2017)
+
+De esta manera, los escenarios de cambio climático proporcionan información de suma importancia para los tomadores de decisiones y la población en general que nos permite saber qué tan vulnerables estamos ante los posibles impactos y qué medidas se tendrán que tomar para adaptarse a este cambio.
+
+### Vulnerabilidad ante el cambio climático
+
+El análisis de vulnerabilidad es una herramienta valiosa pues permite identificar las principales amenazas climáticas de una región y los problemas relacionados a ellas, así como determinar las causas fundamentales que podrían agravar los impactos en la sociedad (INECC, 2019).
+
+La Ley General de Cambio Climático define la **vulnerabilidad** como el *"nivel a que un sistema es susceptible, o no es capaz de soportar los efectos adversos del Cambio Climático, incluida la variabilidad climática y los fenómenos extremos"*. Por lo tanto, la vulnerabilidad de un sistema se calcula tomando en cuenta su **exposición**, **sensibilidad** y **capacidad adaptativa**. Las primeras dos aumentan a la vulnerabilidad, mientras que última la disminuye (INECC, 2019).
+
+El Atlas Nacional de Vulnerabilidad al Cambio Climático (ANVCC) define seis vulnerabilidades específicas: vulnerabilidad de asentamientos humanos a deslaves, inundaciones y al incremento potencial de enfermedades transmitidas por vector (como dengue); vulnerabilidad de la producción ganadera a estrés hídrico e inundaciones; y vulnerabilidad de la producción forrajera a estrés hídrico. Estas seis vulnerabilidades consideran la vulnerabilidad actual y futura de los municipios, para un futuro cercano (2015-2039) y en el escenario de cambio climático RCP 8.5.
+
+**La vulnerabilidad representada en los siguientes tres mapas es entonces una priorización de los municipios vulnerables al cambio climático definida por el INECC, a partir de las seis vulnerabilidades mencionadas en el párrafo anterior (asentamientos humanos y producción ganadera y forrajera).**
+
+>El **primer nivel** de priorización incluye aquellos municipios que actualmente presentan vulnerabilidad alta y muy alta para **por lo menos una** de las seis vulnerabilidades específicas, así como un aumento para al menos una de las vulnerabilidades en un futuro. Para el **segundo nivel** de priorización, los municipios actualmente presentan vulnerabilidad alta y muy alta para para **tres vulnerabilidades** específicas y un aumento para dos o más de ellas en un futuro. El **tercer nivel** de vulnerabilidad es el de mayor importancia pues los municipios en este nivel actualmente cuentan con vulnerabilidad alta y muy alta para **cuatro o más** vulnerabilidades específicas. En un futuro, **dos o más** de estas vulnerabilidades tendrán un aumento (INECC, 2021). 
+
+##### Guerrero {-}
+
+De los 81 municipios de Guerrero, **64** cuentan con una mayor vulnerabilidad al cambio climático y por lo tanto, se encuentran con algún grado de prioridad. En el **primer nivel** de prioridad se incluyen **40 municipios**, los cuales se encuentran por todo el estado, pero principalmente hacia el interior. El **segundo nivel** de prioridad incluye **19 municipios** que se encuentran principalmente del centro al sureste del estado, y con sólo cuatro municipios en la frontera noroeste del estado. En el **tercer nivel** de prioridad, es decir el grado más alto de vulnerabilidad, se encuentran **cinco municipios**. Estos se ubican al centro del estado, con uno de ellos en la zona costera.
+
+```{r, echo = FALSE, fig.cap = "Grado de priorización de municipios de Guerrero vulnerables al cambio climático", fig.show = "hold", fig.topcaption = TRUE}
+knitr::include_graphics("figure/guerrero_vul.png",  dpi = NA)
+```
+
+
+### Potenciales impactos negativos a la población
+
+Los efectos del cambio climático, bajo cualquiera de los escenarios ya mencionados, se podrán observar como incrementos en la temperatura del ambiente, porcentajes de cambio en la precipitación, elevación del nivel del mar e inundaciones y deslaves como consecuencia de una combinación de diferentes efectos. Todos estos efectos presentan potenciales impactos negativos en la población.
+
+Los mapas de anomalías de temperatura y el porcentaje de cambio de la precipitación están basados en el Atlas interactivo del Grupo de Trabajo I del IPCC y representan el escenario más pesimista (SSP5 RCP 8.5) para un futuro lejano (2081-100) (INECC, 2022).
+
+Las proyecciones de vulnerabilidad al cambio climático (deslaves e inundaciones) representan el escenario RCP8.5 para un futuro cercano (2015-2039) (INECC, 2022; INECC, 2019).
+
+Para la elevación del nivel del mar se utiliza un escenario medianamente alto (SSP3-7.0) para un futuro medianamente cercano (año 2050). Para poder hacer un acercamiento mayor a estos mapas, consulte la Herramienta de detección de riesgos costeros de Climate Central o de click a los mapas de cada estado.
+
+## Adaptación
+
+### Programas sociales
+
+La pobreza y altos índices de marginación en la región Pacífico Sur están directamente relacionados con su grado de vulnerabilidad. En este sentido, es importante identificar las acciones que se llevan a cabo para abatir la pobreza mediante programas sociales de desarrollo.
+
+### Remesas
+Una de las mayores ayudas económicas de la población rural son las remesas que envían los migrantes a México, las cuales constituyen la base fundamental para millones de hogares.
 

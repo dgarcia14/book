@@ -1,4 +1,15 @@
+fig:unnamed-chunk-1
+fig:unnamed-chunk-2
 identificación-de-territorios-con-vulnerabilidad
 riesgos-hidrometeorológicos
 basics-examples
+presión-sobre-los-recursos-naturales
+presión-al-capital-natural
+presión-de-deforestación
+escenarios-de-cambio-climático
+vulnerabilidad-ante-el-cambio-climático
+potenciales-impactos-negativos-a-la-población
+adaptación
+programas-sociales
+remesas
 otro-capitulo
