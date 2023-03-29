@@ -1,0 +1,64 @@
+--- 
+title: "Libro"
+author: "---"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+# output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: openscapes/series
+description: "----"
+---
+
+# Resumen {-}
+
+
+<!--chapter:end:index.Rmd-->
+
+# Identificación de Territorios con Vulnerabilidad
+
+## Resumen {-}
+## Riesgos hidrometeorológicos
+### Eventos Hidrometeorológicos Extremos {#basics-examples}
+Los eventos climáticos extremos son aquellos fenómenos de condiciones climáticas que suceden de una manera fuera de lo común, ya sea en intensidad, duración, frecuencia e/o impacto. En sí, **son eventos climáticos atípicos** y por lo general, severos. Los **eventos hidrometeorológicos extremos** son eventos perturbadores generados por fenómenos atmosféricos, pero específicamente, aquellos que siguen los procesos de la climatología y del ciclo hidrológico. Estos incluyen ciclones tropicales, vientos fuertes, oleaje y marea de tormenta, lluvias, inundaciones, sequías, temperaturas extremas y tormentas severas.
+
+Actualmente, el monitoreo y comprensión de los datos meteorológicos y oceanográficos permite generar modelos de predicción de eventos extremos, los cuales son de gran importancia para advertir a la población de la ocurrencia de eventos potencialmente peligrosos.
+
+Uno de los monitoreos de eventos hidrometeorológicos extremos más importantes es aquel que observa una región del Pacífico Tropical ya que anomalías en la temperatura superficial del mar en esta región nos alertan sobre la ocurrencia de los fenómenos de El Niño y La Niña (ENOS). Dicho fenómeno es de suma importancia pues tiene una gran influencia en las condiciones climáticas de diversas partes del mundo, entre ellos México.
+
+#### ¿Qué es el fenómeno de El Niño/La Niña (ENOS)?  {-}
+
+El fenómeno de El Niño-Oscilación del Sur, o ENOS (comúnmente ENSO, por sus siglas en inglés) es un fenómeno natural de gran escala que afecta de manera interanual la temperatura superficial del mar en el Océano Pacífico ecuatorial. Esta es una fluctuación interanual del sistema océano-atmósfera que incluye una fase cálida (El Niño), una fría (La Niña) y una neutral. Sin embargo, a pesar de ser un fenómeno altamente estudiado, sigue siendo **difícil de predecir** ya que es el resultado de múltiples dinámicas océano-atmosféricas. Las características de cada fase (El Niño/La Niña) pueden variar tanto en intensidad como entre regiones del país y del mundo.
+
+##### ¿Cómo nos afecta? {-}
+
+**Los eventos de El Niño y La Niña generan cambios en los patrones de precipitación y temperatura** y, por lo general, tienen **efectos opuestos** sobre las estaciones del año. Sin embargo, estos cambios se pueden observar de diferentes maneras según la región del país. Cabe mencionar que los efectos del ENOS en la región centro/sur del país son más variantes, comparado con el norte.
+
+##### Invierno {-}
+
+El invierno durante un evento de **El Niño** suele ser **más frío** en todo el país y las **lluvias** típicamente **disminuyen** en la región sur del país. Durante un evento de **La Niña**, el invierno suele ser **más cálido y seco**.
+
+##### Verano {-}
+
+El verano de **El Niño** al sur de México suele estar asociado a una mayor disminución de precipitación, lo cual es capaz de provocar grandes **sequías**. Con la disminución de las lluvias, disminuye también la humedad del suelo. Esto a su vez es capaz de generar mayores **incendios forestales**, como llegó a suceder durante El Niño de 1998, donde Oaxaca y Chiapas se encontraron entre los estados con mayores pérdidas de hectáreas por incendios. En cambio, los veranos de **La Niña** suelen ser más **húmedos**; es decir, la precipitación es más cercana al promedio de una fase neutral del ENOS y en ocasiones más alta.
+
+**A pesar de que el ENOS es altamente variante y difícil de predecir, queda claro que cambios intensos en la distribución y abundancia de lluvias son capaces de provocar daños para la población grandes en forma de pérdidas de cultivo (e.g. sequía) y daños materiales (e.g. tormentas).**
+
+### Declaratorias de emergencia hidrometeorológica {#basics-examples}
+
+La **declaratoria de emergencia** se define como "el acto mediante el cual la SEGOB reconoce que uno o varios municipios o delegaciones políticas de una entidad federativa, se encuentran ante la inminencia, alta probabilidad o presencia de una situación anormal generada por un fenómeno natural perturbador, que puede propiciar un riesgo excesivo a la seguridad e integridad o, en su caso, causar un daño a la sociedad." (SEGOB) 
+
+Ante un evento perturbador, estas declaratorias de emergencia son de suma importancia pues tienen el objetivo de acceder a los recursos financieros del Fondo para la Atención de Emergencias FONDEN y dirigirlos a la atención de la vida y la salud de la población afectada (SEGOB; SEMARNAT).
+
+Para la región Pacífico Sur, las declaratorias de emergencias de eventos hidrometeorológicos se deben a **lluvias, temperaturas extremas, ciclones tropicales** (por ejemplo, tormentas tropicales y huracanes), **inundaciones, heladas y sequías** (CENAPRED).
+
+
+
+<!--chapter:end:02-tears.Rmd-->
+
+# Otro Capitulo
+
+<!--chapter:end:03-race.Rmd-->
+
