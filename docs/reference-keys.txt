@@ -3,6 +3,7 @@ fig:unnamed-chunk-2
 identificación-de-territorios-con-vulnerabilidad
 riesgos-hidrometeorológicos
 basics-examples
+declaratorias-de-emergencia-hidrometeorológica
 presión-sobre-los-recursos-naturales
 presión-al-capital-natural
 presión-de-deforestación
