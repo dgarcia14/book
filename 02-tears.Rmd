@@ -32,7 +32,8 @@ knitr::include_graphics("figure/enos.gif",  dpi = NA)
 ```
 
 
->El Servicio Meteorológico Nacional (SMN) proporciona información sobre el estado del tiempo a escala nacional y local en nuestro país. Para consultar el **estado actual del ENOS**, así como más detalles sobre del fenómeno El Niño y sus impactos en México, visite esta liga: Servicio Meteorológico Nacional.
+>El Servicio Meteorológico Nacional (SMN) proporciona información sobre el estado del tiempo a escala nacional y local en nuestro país. Para consultar el **estado actual del ENOS**, así como más detalles sobre del fenómeno El Niño y sus impactos en México, visite esta liga: [Servicio Meteorológico Nacional](https://smn.conagua.gob.mx/es/climatologia/diagnostico-climatico/estatus-del-nino).
+
 ### Declaratorias de emergencia hidrometeorológica
 
 La **declaratoria de emergencia** se define como "el acto mediante el cual la SEGOB reconoce que uno o varios municipios o delegaciones políticas de una entidad federativa, se encuentran ante la inminencia, alta probabilidad o presencia de una situación anormal generada por un fenómeno natural perturbador, que puede propiciar un riesgo excesivo a la seguridad e integridad o, en su caso, causar un daño a la sociedad." (SEGOB) 
