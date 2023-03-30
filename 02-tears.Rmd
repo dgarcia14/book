@@ -36,15 +36,41 @@ knitr::include_graphics("figure/enos.gif",  dpi = NA)
 
 ### Declaratorias de emergencia hidrometeorológica
 
-La **declaratoria de emergencia** se define como "el acto mediante el cual la SEGOB reconoce que uno o varios municipios o delegaciones políticas de una entidad federativa, se encuentran ante la inminencia, alta probabilidad o presencia de una situación anormal generada por un fenómeno natural perturbador, que puede propiciar un riesgo excesivo a la seguridad e integridad o, en su caso, causar un daño a la sociedad." (SEGOB) 
+La **declaratoria de emergencia** se define como "el acto mediante el cual la SEGOB reconoce que uno o varios municipios o delegaciones políticas de una entidad federativa, se encuentran ante la inminencia, alta probabilidad o presencia de una situación anormal generada por un fenómeno natural perturbador, que puede propiciar un riesgo excesivo a la seguridad e integridad o, en su caso, causar un daño a la sociedad." [(SEGOB)](https://sidof.segob.gob.mx/notas/5257322) 
 
-Ante un evento perturbador, estas declaratorias de emergencia son de suma importancia pues tienen el objetivo de acceder a los recursos financieros del Fondo para la Atención de Emergencias FONDEN y dirigirlos a la atención de la vida y la salud de la población afectada (SEGOB; SEMARNAT).
+Ante un evento perturbador, estas declaratorias de emergencia son de suma importancia pues tienen el objetivo de acceder a los recursos financieros del Fondo para la Atención de Emergencias FONDEN y dirigirlos a la atención de la vida y la salud de la población afectada [(SEGOB;](https://sidof.segob.gob.mx/notas/5257322) [ SEMARNAT)](http://apps1.semarnat.gob.mx:8443/dgeia/compendio_2015/dgeiawf.semarnat.gob.mx_8080/ibi_apps/WFServlet0ce4.html).
 
-Para la región Pacífico Sur, las declaratorias de emergencias de eventos hidrometeorológicos se deben a **lluvias, temperaturas extremas, ciclones tropicales** (por ejemplo, tormentas tropicales y huracanes), **inundaciones, heladas y sequías** (CENAPRED).
+Para la región Pacífico Sur, las declaratorias de emergencias de eventos hidrometeorológicos se deben a **lluvias, temperaturas extremas, ciclones tropicales** (por ejemplo, tormentas tropicales y huracanes), **inundaciones, heladas y sequías** [(CENAPRED)](http://www.atlasnacionalderiesgos.gob.mx/apps/Declaratorias/#).
+
+
+<pre style="background: #EEF9FB;">
+Las <b>declaratorias de emergencia</b> existen como un medio de protección <b>únicamente para la  población</b> ante eventos hidrometeorológicos extremos. En ellas no se incluye apoyo para infraestructura u otros sectores como el agropecuario o acuicola. No obstante, para daños de este tipo existen otras declaratorias (SEMARNAT).</pre>
+
+
+<pre style="background: #F0F0F0; border-radius: 1.5rem;">
+En el diagrama de abajo se puede observar la cantidad de declaratorias por estado (gráficas de pastel), así como la cantidad de cada tipo de declaratoria, con colores por año (gráfica de barras verticales) y de manera opuesta, la cantidad de declaratorias por año, con colores por tipo de declaratorias (gráfica de barras horizontales).  <b>El diagrama es interactivo por lo que se puede ver más información al pasar el cursor por encima de las gráficas. Se puede hacer zoom al cuadro completo desde la esquina inferior derecha (opción "Full screen").</b> </pre>
+
+<div>
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="770"
+      height="450"
+      src="https://view.genial.ly/63758120757e4d00138853bd">
+  </iframe>
+</div>
+
+##### Mapas de declaratorias de emergencias hidrometeorológicas {-}
+
+Para explorar con mayor detalle las declaratorias de emergencia por estado de la región Pacífico Sur, dar click en los siguientes mapas. En ellos se pueden observar la cantidad de declaratorias de emergencia por municipio. También se pueden observar las declaratorias para cada tipo de fenómeno hidrometeorológico (ciclón tropical, inundación, lluvia, temperatura extrema, heladas). A simple vista es fácil observar que para Guerrero y Oaxaca, la zona costera es la que se encuentra en mayor riesgo pues presentan la mayor cantidad de declaratorias de emergencia. Sin embargo, para Chiapas la mayoría de los municipios con mayor cantidad de declaratorias de emergencia se encuentran al norte del estado.
+
+| <img src="figure/guerrero_dh.png" width="230px" height="108px"> | <img src="figure/oaxaca_dh.png" width="230px" height="108px">| <img src="figure/chiapas_dh.png" width="230px" height="108px"> |
+|     :---:      |     :---:      |     :---:      |
+| [Declaratorias de emergencia en Guerrero](http://adesur-plataforma.com.mx/mviewer/decla_hidro_gro)   | [Declaratorias de emergencia en Oaxaca](http://adesur-plataforma.com.mx/mviewer/decla_hidro_oax)     | [Declaratorias de emergencia en Chiapas](http://adesur-plataforma.com.mx/mviewer/decla_hidro_chis)    |
 
 ## Presión sobre los recursos naturales
 
 ### Presión al capital natural
+
 
 ### Presión de deforestación
 
